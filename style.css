@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+#first{
+    margin-top: 0%;
+    h1{
+        font-size: 3rem;
+        font-family:Libre Baskerville ;
+        text-align: center;
+        color: aliceblue;
+         font-weight: 200px;
+         padding-left: 10px;
+    }
+    #tri{
+        border: 5px solid white;
+    margin-top: 25px;
+        width: 50%;
+        margin-left: 25%;
+    }
+    p{
+        font-size:2rem;
+        padding-left: 30px;
+        color: aliceblue;
+        text-align: center;
+    }
+}
